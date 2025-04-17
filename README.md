@@ -14,6 +14,13 @@ Run MRI_timeseriClassificationTransformer_keras_Kfold.py
 → Perform classification using the transformer-based model on the 10-fold dataset.
 
 ![image](https://github.com/user-attachments/assets/14ee9f36-fee1-4f7e-83b9-c0512f5eafae)
+The proposed pipeline of the ViT-TST. MRI images were pre-processed using CAT12 (image registration to standardize the images and skull stripping to reduce biases by ensuring consistent voxel intensities). ViT was used from each plane to derive slice attributes. Finally, the time series transformer was used to classify the feature sequences.
+
+![image](https://github.com/user-attachments/assets/b2ff0496-dbcf-491f-b5ff-5fb701382b15)
+Summary of the proposed model. Features were extracted using ViT and the sequence of features was classified using the time series transformer model.
+
+
+
 
 
 Here is the recommended citation for our paper in different common formats:
