@@ -29,7 +29,7 @@ Summary of the proposed model. Features were extracted using ViT and the sequenc
 
 
 
-
+## Citation
 Here is the recommended citation for our paper in different common formats:
 
 MLA:  Alp, Sait, et al. "Joint transformer architecture in brain 3D MRI classification: its application in Alzheimer’s disease classification." Scientific Reports 14.1 (2024): 8996.
