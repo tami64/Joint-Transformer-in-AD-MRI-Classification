@@ -3,6 +3,11 @@
 
 Joint Transformer Architecture in Brain 3D MRI Classification: Its Application in Alzheimer’s Disease Classification
 
+## Installation
+Clone the repository:
+git clone https://github.com/tami64/Joint-Transformer-in-AD-MRI-Classification.git
+cd Joint-Transformer-in-AD-MRI-Classification
+
 To use this code for classifying MRI datasets:
 Preprocess the MRI dataset using CAT12 tools.
 
