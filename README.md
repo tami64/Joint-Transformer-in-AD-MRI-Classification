@@ -1,4 +1,6 @@
 # Joint-Transformer-in-AD-MRI-Classification
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Joint Transformer Architecture in Brain 3D MRI Classification: Its Application in Alzheimer’s Disease Classification
 
 To use this code for classifying MRI datasets:
